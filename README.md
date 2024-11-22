@@ -1,2 +1,2 @@
 # django_lms
-my first project on github
+first django project
